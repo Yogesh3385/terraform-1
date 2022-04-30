@@ -17,3 +17,5 @@ module "my_ec2" {
   subnet_id=module.aws_subnet.main.id
   
 }
+  
+  #add this file to the remote locatiion
